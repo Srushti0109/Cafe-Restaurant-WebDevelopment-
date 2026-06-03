@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://www.velvetbrew.in/sitemap.xml
+
+# Disallow admin or API routes if added later
+Disallow: /api/
+Disallow: /_next/
